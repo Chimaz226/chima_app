@@ -4,7 +4,7 @@ void main() {
   int age = 20;
 
   if (age >= 21) {
-    print("ADULT 21");
+    print("ADULT 24");
   } else if (age >= 18) {
     print("ADULT");
   } else {
@@ -12,7 +12,7 @@ void main() {
   }
 
   if (age != 18 && !isAllowed) {
-    print("haha");
+    print("hahaaaa");
   } else {
     print("naha");
   }
